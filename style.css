@@ -1,0 +1,175 @@
+
+body {
+    margin: 0;
+    line-height: 1.5;
+    font-family: Inter, ui-sans-serif, system-ui, -apple-system, sans-serif;
+}
+
+
+.bg-white {
+    --tw-bg-opacity: 1;
+    background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+}
+
+
+.mb-8 {
+    margin-bottom: 2rem;
+}
+
+.text-4xl {
+    font-size: 2.25rem;
+}
+
+.text-xl {
+    font-size: 1.25rem;
+}
+
+
+
+
+.space-y-8 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 2rem; 
+  }
+  
+
+  .space-y-8 > div {
+    flex: 0 0 calc(33.3333% - 2rem); 
+    max-width: calc(33.3333% - 2rem); 
+    margin-top: 1.5rem; 
+  }
+  
+
+  .space-y-8 svg {
+    width: 1.5rem;
+    height: 1.5rem;
+    margin-right: 0.5rem;
+    vertical-align: middle;
+    fill: #3182ce; 
+  }
+  
+ 
+  .space-y-8 .icon-container {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.5rem; 
+    height: 2.5rem; 
+    border-radius: 50%;
+    background-color: #ebf8ff; 
+    margin-right: 0.5rem;
+  }
+  
+ 
+  .space-y-8 h3 {
+    font-weight: bold;
+  }
+  
+ 
+  .space-y-8 p {
+    text-align: justify;
+    margin-top: 0.5rem; 
+  }
+  
+
+  .dark .space-y-8 svg {
+    fill: #a0aec0; 
+  }
+  
+  .dark .space-y-8 h3 {
+    color: #fff; 
+  }
+  
+  .dark .space-y-8 p {
+    color: #a0aec0; 
+  }
+  
+
+
+
+.custom-text-color {
+    color: #808080f5; 
+}
+
+.custom-text-color {
+    color: #808080f5; 
+}
+
+.custom-text-color {
+    color: #808080f5; 
+}
+.custom-text-color {
+    color: #808080f5; 
+}
+.custom-text-color {
+    color: #808080f5; 
+}
+.custom-text-color {
+    color: #808080f5; 
+}
+
+.custom-text-color {
+    color: #808080f5; 
+}
+
+
+
+.space-y-8 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 2rem; 
+}
+
+
+.space-y-8 > div {
+    flex: 0 0 calc(33.3333% - 2rem); 
+    max-width: calc(33.3333% - 2rem); 
+}
+
+
+.space-y-8 svg {
+    width: 1.5rem;
+    height: 1.5rem;
+    margin-right: 0.5rem;
+    vertical-align: middle;
+    fill: #3182ce; 
+}
+
+
+.space-y-8 .icon-container {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.5rem; 
+    height: 2.5rem; 
+    border-radius: 50%;
+    background-color: #ebf8ff; 
+    margin-right: 0.5rem;
+}
+
+
+.space-y-8 h3 {
+    font-weight: bold;
+    margin-top: 1rem; 
+}
+
+
+.space-y-8 p {
+    text-align: justify;
+}
+
+
+.dark .space-y-8 svg {
+    fill: #a0aec0; 
+}
+
+.dark .space-y-8 h3 {
+    color: #fff; 
+}
+
+.dark .space-y-8 p {
+    color: #a0aec0; 
+}
